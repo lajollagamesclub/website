@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="480"
-   height="800"
-   viewBox="0 0 127 211.66668"
+   width="226.27419"
+   height="226.27419"
+   viewBox="0 0 59.868378 59.868382"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -56,9 +56,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="390.9884"
-     inkscape:cy="316.77248"
+     inkscape:zoom="0.5"
+     inkscape:cx="114.08361"
+     inkscape:cy="-76.577044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,38 +75,42 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:window-width="1914"
+     inkscape:window-width="954"
      inkscape:window-height="1026"
-     inkscape:window-x="1920"
+     inkscape:window-x="960"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      units="px"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:pagecheckerboard="true">
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="0,89.535297"
+       position="-33.565808,29.934191"
        orientation="0,1"
        id="guide4740"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="63.499998,179.0706"
+       position="29.93419,119.46949"
        orientation="1,0"
        id="guide4742"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="35.351843,207.16822"
+       position="1.7860354,147.56711"
        orientation="1,0"
        id="guide4752"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="53.639372,149.27005"
+       position="20.073564,89.668944"
        orientation="0,1"
        id="guide4766"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="79.644695,29.80056"
+       position="46.078887,-29.800546"
        orientation="0,1"
        id="guide4770"
        inkscape:locked="false" />
@@ -119,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,7 +131,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-85.33332)">
+     transform="translate(-33.565808,-177.53051)">
     <rect
        style="opacity:1;fill:#00171f;fill-opacity:1;stroke:none;stroke-width:5.29166698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
        id="rect4719"
@@ -141,14 +145,6 @@
        transform="matrix(0.26458334,0,0,0.26458334,0,85.33332)"
        id="rect4776"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29166698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
-       id="rect4717"
-       width="127"
-       height="32.596081"
-       x="0"
-       y="85.333321"
-       inkscape:label="navbar" />
     <g
        id="g4736"
        inkscape:label="logo platter"
@@ -238,31 +234,43 @@
       </g>
     </g>
     <g
-       id="g4758"
-       inkscape:label="title"
-       transform="translate(28.148157,1.9801307)">
-      <text
-         id="text4746"
-         y="97.536736"
-         x="6.4285431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458335"
-           y="97.536736"
+       id="g1517"
+       inkscape:label="navbar">
+      <rect
+         inkscape:label="bg"
+         y="85.333321"
+         x="0"
+         height="32.596081"
+         width="127"
+         id="rect4717"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29166698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal" />
+      <g
+         transform="translate(28.148157,1.9801307)"
+         inkscape:label="title"
+         id="g4758">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="6.4285431"
-           id="tspan4744"
-           sodipodi:role="line">LA JOLLA</tspan></text>
-      <text
-         id="text4750"
-         y="109.33632"
-         x="-3.6251101"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458335"
-           y="109.33632"
+           y="97.536736"
+           id="text4746"><tspan
+             sodipodi:role="line"
+             id="tspan4744"
+             x="6.4285431"
+             y="97.536736"
+             style="stroke-width:0.26458335">LA JOLLA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="-3.6251101"
-           id="tspan4748"
-           sodipodi:role="line">GAMES CLUB</tspan></text>
+           y="109.33632"
+           id="text4750"><tspan
+             sodipodi:role="line"
+             id="tspan4748"
+             x="-3.6251101"
+             y="109.33632"
+             style="stroke-width:0.26458335">GAMES CLUB</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"

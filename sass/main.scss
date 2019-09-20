@@ -1,0 +1,45 @@
+$font-stack:    'Arial Black';
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 5px;
+}
+
+html,
+body {
+    font: 100% $font-stack;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+a {
+    font-size: 64px;
+    text-decoration: none;
+    color: #00a8e8;
+    width: 100%;
+}
+
+
+#body-div {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+
+#header {
+    background-color: white;
+}
+
+#main {
+    background-color: #00171fff;
+    flex-grow: 1;
+    text-align: center;
+    padding: 50px;
+}
+
+#logo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
