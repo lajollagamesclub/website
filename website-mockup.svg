@@ -56,9 +56,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="114.08361"
-     inkscape:cy="-76.577044"
+     inkscape:zoom="1"
+     inkscape:cx="-94.271545"
+     inkscape:cy="87.178395"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,10 +75,10 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:window-width="954"
-     inkscape:window-height="1026"
-     inkscape:window-x="960"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      units="px"
@@ -139,12 +139,6 @@
        height="179.0706"
        x="0"
        y="117.9294" />
-    <path
-       style="opacity:1;fill:#003459;fill-opacity:1;stroke:none;stroke-width:14.26176834;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
-       d="M 31,178 V 293.66016 H 240 449 V 178 H 240 Z"
-       transform="matrix(0.26458334,0,0,0.26458334,0,85.33332)"
-       id="rect4776"
-       inkscape:connector-curvature="0" />
     <g
        id="g4736"
        inkscape:label="logo platter"
@@ -283,13 +277,6 @@
          x="63.395267"
          y="157.326"
          style="font-size:26.81111145px;text-align:center;text-anchor:middle;fill:#00a8e8;fill-opacity:1;stroke-width:0.26458335">GAMES</tspan></text>
-    <rect
-       style="opacity:1;fill:#003459;fill-opacity:1;stroke:none;stroke-width:4.57430553;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
-       id="rect4787"
-       width="76.242332"
-       height="30.274632"
-       x="25.376616"
-       y="251.89192" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#00a8e8;fill-opacity:1;stroke:none;stroke-width:0.26458335"

@@ -15,7 +15,6 @@ body {
 }
 
 a {
-    font-size: 64px;
     text-decoration: none;
     color: #00a8e8;
     width: 100%;
@@ -36,10 +35,18 @@ a {
     background-color: #00171fff;
     flex-grow: 1;
     text-align: center;
-    padding: 50px;
+    padding-top: 50px;
 }
 
 #logo {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.bigbutton {
+    font-size: 64px;
+}
+
+.bigbutton-calendar {
+    font-size: 50px;
 }
